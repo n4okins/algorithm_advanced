@@ -1,0 +1,29 @@
+[package]
+name = "algorithm_advanced"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.4.3"
+
+[[bin]]
+name = "A01"
+path = "A01/main.rs"
+
+[[bin]]
+name = "B01"
+path = "B01/main.rs"
+
+[[bin]]
+name = "A02"
+path = "A02/main.rs"
+
+[[bin]]
+name = "B02"
+path = "B02/main.rs"
+
+[[bin]]
+name = "A03"
+path = "A03/main.rs"
